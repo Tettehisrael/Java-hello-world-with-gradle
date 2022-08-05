@@ -94,7 +94,8 @@ https://gradle.com/s/2suich5xjmziu
 ```
 Here is my [link](https://gradle.com/s/2suich5xjmziu) for my built scan
 
-##Summary
+## Summary
+
 That’s it! You’ve now successfully configured and built a Java application project with Gradle. You’ve learned how to:
 
 Initialize a project that produces a Java application
